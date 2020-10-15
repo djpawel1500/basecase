@@ -1,0 +1,32 @@
+{
+	"name": "basecase",
+	"version": "1.0.0",
+	"main": "src/tetris.js",
+	"author": "Paweł Lisowski",
+	"license": "MIT",
+	"private": true,
+	"scripts": {
+		"dev": "nodemon src/tetris",
+		"start": "node src/tetris",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"engines": {
+		"node": ">=10.0.0"
+	},
+	"dependencies": {
+		"nodemon": "^2.0.5"
+	},
+	"devDependencies": {
+		"eslint": "^7.11.0",
+		"prettier": "^2.1.2"
+	},
+	"prettier": {
+		"useTabs": true,
+		"tabWidth": 4,
+		"semi": false,
+		"singleQuote": true,
+		"trailingComma": "es5",
+		"endOfLine": "lf",
+		"packageManager": "npm"
+	}
+}

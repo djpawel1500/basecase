@@ -1,0 +1,15 @@
+{
+	"npm.packageManager": "npm",
+	"prettier.endOfLine": "lf",
+	"prettier.semi": false,
+	"prettier.tabWidth": 4,
+	"prettier.useTabs": true,
+	"prettier.singleQuote": true,
+	"prettier.trailingComma": "es5",
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"prettier.packageManager": "npm",
+	"editor.formatOnPaste": true,
+	"editor.formatOnSave": true,
+	"editor.detectIndentation": false,
+	"editor.insertSpaces": false
+}
